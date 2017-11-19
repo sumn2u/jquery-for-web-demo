@@ -1,5 +1,5 @@
 #DEMOS
-look under /app/demo.html for demoss
+look under /app/demo.html for demos
 
 # reveal.js
 
